@@ -1,2 +1,8 @@
 # Prepare-survey
-Key concepts for preparing survey
+## Explanatory Documents:
+### report
+
+    1. HOW CAN I LEAD AN EFFECTIVE SURVEY?
+    2. WHAT ARE THE KEY CONCEPTS?
+    3. HOW CAN I APPLY KEY CONCEPTS?
+    4. REMAKRS
