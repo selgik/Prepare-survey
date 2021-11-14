@@ -19,7 +19,7 @@ TABLE OF CONTENTS:
        b. I do not know how to interpret the survey results. 60% responded A and 40% reponded B but what is the meaning behind them?
        
    (3) MOTIVATION
-       I want to determine optimal sample size and know how to interpret the survey results.
+       I want to determine optimal sample size and understand know how to interpret the survey results.
        
        
 2. WHAT ARE THE KEY CONCEPTS?
@@ -64,30 +64,30 @@ TABLE OF CONTENTS:
        while the rest 20 staffs (40%) gave negative rating. Provided that the confidence level is 90%, I can calculate margin of error as ~11%.
        That means, there are 90% chance that the 1,000 staffs' positive response would fall between 49% - 71%.  
        
-       So what does that mean? Did staffs enjoyed training or not?
-       This could mean the survey results are inconclusive. How about increasing sample size and re-do the survey?
+       So what does that mean? Did staffs enjoyed training or not? With margin of error above, results could be interpreted as 'half and half'.
+       This could mean the survey results are inconclusive. So I might consider increasing sample size and re-do the survey.
        Increasing sample size will drop the margin of error down.
        
    (2) DETERMINE SAMPLE SIZE
-       In order to calculate sample size**, I need population size, confidence level (%) and margin of error (%).
+       In order to calculate the sample size**, I need population size, confidence level (%) and margin of error (%).
        Let's assume I want to obtain accurate results from survey with 99% confidence level and 5% margin of error.
        For 1,000 staffs then I would at least survey 400 staffs. 
    
    (3) CALCULATE MARGIN OF ERROR
        If I have population size, sample size and confidence level (%) I could calculate margin of error***.
        Let's assume I target 95% confidence level for surveying 100 staffs out of 1,000 population.
-       Margin of error would be ~9%. 
+       Margin of error would be at ~9%. 
 
 
 4. REMAKRS
-   (1) DO I ALWAYS HAVE TO WORRY ABOUT STATISTICAL SIGNIFICANE?
+   (1) DOES IT ALWAYS MATTER TO HAVE STATISTICAL SIGNIFICANT SAMPLE SIZE?
        The answer is yes and no. It will depend on the types, circumtances or industries etc.
-       Let's say the department's head wants to reorganize training program depending on the satisfaction rate from the survey.
-       For this case, results will have to be statistically significant before making such decision.
+       Let's say the department's head wants to restructure training program depending on the satisfaction rate from the survey.
+       For this case, running survey with statistically significant sample size will matter.
        
        However, if I am casually seeking feedback and want to know about general satisfaction rate, 
-       whether survey results are statistically significant or not, will not matter that much. 
-       What will matter more is, improvement idea or suggestsions for the training program.
+       whether we have statistically significant sample size or not, will not matter that much. 
+       What will matter more is, improvement ideas and suggestsions that will be submitted by the staffs.
        
    (2) REMARKS
     *  30 as sample size under 2.(1) 
