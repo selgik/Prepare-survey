@@ -4,5 +4,5 @@
 
     1. How can I lead an effective survey? 
     2. What are the key concepts? 
-    3. How can I apply key concept? 
+    3. How can I apply key concepts? 
     4. Remarks
