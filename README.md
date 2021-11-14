@@ -2,7 +2,7 @@
 ## Explanatory Document:
 ### guide
 
-    1. HOW CAN I LEAD AN EFFECTIVE SURVEY?
-    2. WHAT ARE THE KEY CONCEPTS?
-    3. HOW CAN I APPLY KEY CONCEPTS?
-    4. REMAKRS
+    1. How can I lead an effective survey? 
+    2. What are the key concepts? 
+    3. How can I apply key concept? 
+    4. Remarks
