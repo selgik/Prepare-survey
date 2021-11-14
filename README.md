@@ -1,5 +1,5 @@
 # Prepare-survey
-## Explanatory Document:
+## Explanatory Document
 ### guide
 
     1. How can I lead an effective survey? 
