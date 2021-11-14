@@ -1,6 +1,6 @@
 # Prepare-survey
-## Explanatory Documents:
-### report
+## Explanatory Document:
+### guide
 
     1. HOW CAN I LEAD AN EFFECTIVE SURVEY?
     2. WHAT ARE THE KEY CONCEPTS?
