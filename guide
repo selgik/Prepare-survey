@@ -95,15 +95,10 @@ TABLE OF CONTENTS:
        A sample of 30 is the smallest sample size for which the Central limit theorem (CLT) is still valid.
 
     ** Calculate sample size under 3.(2)
-       I used sample size calculator 
+       I used sample size calculator
        
     ***Calculate margin of error under 3.(3)
        I used margin of error calculator 
-   
-   (3) REFERENCE AND CREDITS
-       Google Data Analytics, Process Data from Dirty to Clean
-       Survey Monkey, sample size calculator: https://www.surveymonkey.com/mp/sample-size-calculator/
-       Survey Monkey, margin of error calculator: https://www.surveymonkey.com/mp/margin-of-error-calculator/
 
    
 - END -
