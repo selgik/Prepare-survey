@@ -1,12 +1,12 @@
 -----------------------------------------------------
 TABLE OF CONTENTS:
-  1. HOW CAN I LEAD AN EFFECTIVE SURVEY?
-  2. WHAT ARE THE KEY CONCEPTS?
-  3. HOW CAN I APPLY KEY CONCEPTS?
+  1. MOTIVATION
+  2. KEY CONCEPTS
+  3. APPLYING KEY CONCEPTS
   4. REMAKRS
 -----------------------------------------------------
 
-1. HOW CAN I LEAD AN EFFECTIVE SURVEY?
+1. MOTIVATION
    (1) TASK
        Recently I led training for 1,000 staffs. I want to know whether staffs were satisfied with the training contents.
        Depending on the survey results, I may have to restructure or continue with the current program.
@@ -15,16 +15,17 @@ TABLE OF CONTENTS:
    (2) PROBLEM
        a. How many should I survey? 
           I cannot survey 1,000 staffs as it will cost a lot. 
-          I cannot survey 10 staffs either and assume the result would truly represent the whole staffs.
-       b. I do not know how to interpret the survey results. 60% responded A and 40% reponded B but what is the meaning behind them?
+          I cannot survey 10 staffs either and assume the result would truly represent the whole staffs's opinion.
+       b. How should I interpret the results? 
+          60% responded A and 40% reponded B. What else is hidden behind those numbers?
        
    (3) MOTIVATION
-       I want to determine optimal sample size and understand know how to interpret the survey results.
+       I want to determine optimal sample size and understand how to interpret the survey results.
        
        
-2. WHAT ARE THE KEY CONCEPTS?
+2. KEY CONCEPTS
    (1) POPULATION VS SAMPLE
-       Should I survey all 1,000 staffs? No, it will cost a lot. I want to survey the portion that can represent the 1,000 staffs.
+       I cannot survey all 1,000 staffs. I want to survey the portion that can represent the 1,000 staffs.
        I plan to survey only 50. Can I expect that sample size will give an accurate insight?  
    
        a. Population is 1,000. Sample size is 50.
@@ -33,7 +34,7 @@ TABLE OF CONTENTS:
    (2) MARGIN OF ERROR
        Surveying all 1,000 staffs will give 70% of satisfaction rate. 
        But if I select 50 staffs based on the high attendance, engagement and test results of the training, I may get 90% satisfaction rate.
-       Similarly, if I select 50 staffs from the low performing group, the satisfaction rate may drop down. 
+       On the other hand, if I select 50 staffs from the low performing group, the satisfaction rate may drop down. 
 
        a. Margin of error is the difference between samples' results (ex. 90%) and entire population's result (ex. 70%), 20% in this case.
        b. Tip: The smaller the margin of error, the closer samples' results are to actual population's result. 
@@ -58,15 +59,15 @@ TABLE OF CONTENTS:
        b. Tip: Typically, having at least 80% of statistical power is considered for results to be satistically significant.
 
 
-3. HOW CAN I APPLY KEY CONCEPTS?
+3. APPLYING KEY CONCEPTS
    (1) INTERPRET RESULTS
        Let's assume I ran the survey with randomly chosen 50 staffs and the result said 30 of them (60%) gave positive rating on training,
        while the rest 20 staffs (40%) gave negative rating. Provided that the confidence level is 90%, I can calculate margin of error as ~11%.
        That means, there are 90% chance that the 1,000 staffs' positive response would fall between 49% - 71%.  
        
-       So what does that mean? Did staffs enjoyed training or not? With margin of error above, results could be interpreted as 'half and half'.
-       This could mean the survey results are inconclusive. So I might consider increasing sample size and re-do the survey.
-       Increasing sample size will drop the margin of error down.
+       So what does that mean? Did staffs enjoyed training or not? 
+       With margin of error fall in between ~50%, this could mean the survey results are inconclusive. 
+       So I might consider increasing sample size and re-do the survey. Increasing sample size will drop the margin of error.
        
    (2) DETERMINE SAMPLE SIZE
        In order to calculate the sample size**, I need population size, confidence level (%) and margin of error (%).
@@ -87,7 +88,7 @@ TABLE OF CONTENTS:
        
        However, if I am casually seeking feedback and want to know about general satisfaction rate, 
        whether we have statistically significant sample size or not, will not matter that much. 
-       What will matter more is, improvement ideas and suggestsions that will be submitted by the staffs.
+       What will matter more is, feedback, improvement ideas and suggestsions that will be submitted by the staffs.
        
    (2) REMARKS
     *  30 as sample size under 2.(1) 
