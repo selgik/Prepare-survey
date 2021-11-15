@@ -2,10 +2,10 @@
 ## Explanatory Document:
 ### guide
 
-    1. MOTIVATION
-    2. KEY CONCEPTS
-    3. APPLYING KEY CONCEPTS
-    4. REMAKRS
+    1. Motivation
+    2. Key Concepts
+    3. Applying Key Concepts
+    4. Remakrs
     
 ## References:
     Google Data Analytics - Process Data from Dirty to Clean
