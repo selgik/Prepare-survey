@@ -2,10 +2,10 @@
 ## Explanatory Document:
 ### guide
 
-    1. How can I lead an effective survey? 
-    2. What are the key concepts? 
-    3. How can I apply key concepts? 
-    4. Remarks
+    1. MOTIVATION
+    2. KEY CONCEPTS
+    3. APPLYING KEY CONCEPTS
+    4. REMAKRS
     
 ## References:
     Google Data Analytics - Process Data from Dirty to Clean
