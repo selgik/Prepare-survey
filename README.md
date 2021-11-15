@@ -1,6 +1,6 @@
 # Prepare-survey
 ## Explanatory Document:
-### guide
+### report
 
     1. Motivation
     2. Key Concepts
